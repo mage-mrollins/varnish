@@ -1,6 +1,6 @@
 FROM debian:latest
 
-ARG VERSION="4.1.8"
+ARG VERSION="5.2.1"
 ARG EXPOSE_PORT="80"
 
 RUN apt-get update \
